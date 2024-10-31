@@ -1,4 +1,4 @@
-こちらはパチュリー キーボードのremap対応jsonファイルが入ってます。
+こちらにパチュリー キーボードのremap対応jsonファイルが入ってます。
 
 ![スクリーンショット 2024-10-31 163445](https://github.com/user-attachments/assets/3b064528-3716-4838-b9e1-59ae7e0ed765)
 ![スクリーンショット 2024-10-31 163458](https://github.com/user-attachments/assets/c3a00615-39c3-40b2-ada7-a9d7500cf10f)
